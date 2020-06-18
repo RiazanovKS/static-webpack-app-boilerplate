@@ -1,3 +1,1 @@
-function requireAll(r) { r.keys().forEach(r); }
-
-requireAll(require.context('./', true, /\.(js|scss)$/));
+require.context('./', true, /\.(js|scss)$/);
