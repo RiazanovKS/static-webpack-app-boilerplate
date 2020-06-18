@@ -1,0 +1,21 @@
+//colors
+$purple:#BC9CFF;
+$green:red;
+$text-primary-color:#BC9CFF;
+
+$purple-gradient:linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+
+@mixin purple-gradient {
+  background: $purple-gradient;
+}
+
+
+
+
+
+
+
+
+
+
+
